@@ -1,6 +1,6 @@
-This personal project was my first methodological practice in the use of various methods of data science, machine learning, and deep learning/neural networks.
+This personal project was my first methodological practice in the use of various methods of data science, machine learning, and deep learning/neural networks. 
 
-The theme of this project- to analyze Yacht rock/soft rock music using machine learning, was initially given its genesis by my friends, many of whom (including myself) are musicians with a love of soft rock and jazz-rock fusion. As such, in addition to the more serious aspects of the project, one will notice some less-professionally-oriented comments, such as the insistent use of continuously-differentiable activation functions purely because they are "smooth", in the spirit of the "smooth" music that defines Yacht rock.
+The theme of this project- to analyze Yacht rock/soft rock music using machine learning- was initially given its genesis by my friends, many of whom (including myself) are musicians with a love of soft rock and jazz-rock fusion. As such, in addition to the more serious aspects of the project, one will notice some less-professionally-oriented comments, such as the insistent use of continuously-differentiable activation functions purely because they are "smooth", in the spirit of the "smooth" music that defines Yacht rock.
 
 For a more professional-oriented application of machine learning, please see my subsequent project applying ML methods to Alzheimer's disease transcriptomics data, found on my GitHub at www.github.com/barinikis-arch.
 
